@@ -1,3 +1,4 @@
-before commit
+
 changes from user1
 changes again from user1
+changes from user2
